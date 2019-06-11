@@ -1,5 +1,5 @@
 class ad{
-public statc void main
+public statc void main(String[] args)
 {
 int a=2;
 int b=3;
